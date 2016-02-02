@@ -1,0 +1,6 @@
+framework module Pods_Flicksy {
+  umbrella header "Pods-Flicksy-umbrella.h"
+
+  export *
+  module * { export * }
+}
