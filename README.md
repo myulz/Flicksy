@@ -41,7 +41,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Sometimes when I use the refresh control I get an error, but most of the time it works fine.
 
 ## License
 
