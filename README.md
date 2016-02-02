@@ -27,14 +27,14 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. Search bar
+2. Sorting
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/GOflrxP.gifv' title='Video Walkthrough' width='383px' alt='Video Walkthrough' />
+<img src="//i.imgur.com/GOflrxP.gif" style="width: 383px; height: 511px;">
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
