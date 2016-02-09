@@ -36,6 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="http://i.imgur.com/oxOFEMc.gifv" style="width: 413px; height: 629px;">
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="oxOFEMc"><a href="//imgur.com/oxOFEMc">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
